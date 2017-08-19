@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joystick Simulator", "Joystick Simulator\Joystick Simulator.csproj", "{B8F0B87F-875B-4EE7-A3FF-D0DC8574AA66}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9C3B245-8569-43DC-A29A-5CF0EE64915F}"
+	ProjectSection(SolutionItems) = preProject
+		Bullets.cs = Bullets.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F0B87F-875B-4EE7-A3FF-D0DC8574AA66}.Debug|x86.ActiveCfg = Debug|x86
+		{B8F0B87F-875B-4EE7-A3FF-D0DC8574AA66}.Debug|x86.Build.0 = Debug|x86
+		{B8F0B87F-875B-4EE7-A3FF-D0DC8574AA66}.Release|x86.ActiveCfg = Release|x86
+		{B8F0B87F-875B-4EE7-A3FF-D0DC8574AA66}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
